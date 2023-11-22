@@ -124,6 +124,6 @@ In conclusion, this project aims to address the conservation needs of the rainfo
 
 Feel free to explore the code, visualizations, and documentation!
 
-**GitHub Link:** [https://github.com/AbhishekGit23/National-Remote-Sensing-Centre-Internship.git]
+**GitHub Link:** https://github.com/AbhishekGit23/National-Remote-Sensing-Centre-Internship.git
 
 
