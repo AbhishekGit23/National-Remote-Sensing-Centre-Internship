@@ -8,14 +8,14 @@ The National Remote Sensing Centre (NRSC) is a leading organization under the In
 The Forest Department of Karnataka aims to protect endangered species in a tropical rainforest. They possess a dataset of deforestation events and a shapefile of the rainforest boundaries. The objective is to identify areas at the highest risk of deforestation and prioritize conservation efforts.
 
 **My Solution:**
-I developed a Python model to address this problem. The solution code and comprehensive documentation can be found in this [GitHub Repository](link_to_repo). Additionally, I have shared code snippets, visualizations, and other relevant materials in the Google Classroom.
+I developed a Python model to address this problem. The solution code and comprehensive documentation can be found in this [GitHub Repository](https://github.com/AbhishekGit23/National-Remote-Sensing-Centre-Internship.git). Additionally, I have shared code snippets, visualizations, and other relevant materials in the Google Classroom.
 
 ### Scenario 3
 **Problem Statement:**
 A state Agricultural Development Officer is investigating the relationship between soil conditions and crop yields. They have access to a dataset of soil nutrient levels and a shapefile of agricultural land parcels. The goal is to identify areas with optimal soil conditions for specific crops and recommend suitable crop types.
 
 **My Solution:**
-I created a Python model to solve this problem, and the code along with detailed documentation is available in this [GitHub Repository](link_to_repo). Similar to Scenario 2, I have shared code, visualizations, and additional resources in the Google Classroom.
+I created a Python model to solve this problem, and the code along with detailed documentation is available in this [GitHub Repository](https://github.com/AbhishekGit23/National-Remote-Sensing-Centre-Internship.git). Similar to Scenario 2, I have shared code, visualizations, and additional resources in the Google Classroom.
 
 ## Importance of the Features
 1. **Scenario 2 - Deforestation Risk Assessment:**
