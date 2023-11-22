@@ -4,7 +4,7 @@
 The Forest Department of Karnataka is working to protect endangered species in a tropical rainforest. They have access to a dataset of deforestation events and a shapefile of the rainforest boundaries. The goal is to identify areas of the rainforest that are most at risk of deforestation and focus conservation efforts on those areas. This project develops a model using Python to address the problem.
 
 ## Dataset
-The dataset used for this project is sourced from Kaggle and includes information about soil attributes, weather conditions, and other environmental factors. The data is relatively straightforward and features attributes such as Nitrogen, Phosphorous, Potassium content in soil, temperature, humidity, pH value of the soil, and rainfall.
+The dataset used for this project is sourced from Kaggle [https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset] and includes information about soil attributes, weather conditions, and other environmental factors. The data is relatively straightforward and features attributes such as Nitrogen, Phosphorous, Potassium content in soil, temperature, humidity, pH value of the soil, and rainfall.
 
 ### Data Fields
 - N: Ratio of Nitrogen content in soil
