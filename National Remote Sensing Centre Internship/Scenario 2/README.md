@@ -110,5 +110,5 @@ The R² is inherently biased because, depending on the optimizer, it may use dat
 
 ## GitHub Link
 
-[https://github.com/AbhishekGit23/National-Remote-Sensing-Centre-Internship.git]
+https://github.com/AbhishekGit23/National-Remote-Sensing-Centre-Internship.git
 
